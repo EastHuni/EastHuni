@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **LG AImers 7th Hackerton**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/1c1b5ed1708e80538145c48cb155a1c6?pvs=4]
+- 👨‍💻 All of my projects are available at
 
 - 📝 I regularly write articles on [https://velog.io/@east_huni/posts](https://velog.io/@east_huni/posts)
 
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=easthuni&show_icons=true&locale=en" alt="easthuni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=easthuni&" alt="easthuni" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=easthuni&" alt="easthuni" /></p>RF
