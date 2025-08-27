@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **LG AImers 7th**
 
-- 🌱 I’m currently learning **OPIc - IH , LG AImers Hackerton**
+- 🌱 I’m currently learning ** LG AImers Hackerton**
 
 - 👯 I’m looking to collaborate on **LG AImers 7th Hackerton**
 
