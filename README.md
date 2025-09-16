@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easthuni&label=Profile%20views&color=0e75b6&style=flat" alt="easthuni" /> </p>
 
-- 🔭 I’m currently working on **LG AImers 7th**
+- 🔭 I’m currently working on **Company**
 
-- 🌱 I’m currently learning ** LG AImers Hackerton**
+- 🌱 I’m currently learning **C, C++**
 
 - 👯 I’m looking to collaborate on **LG AImers 7th Hackerton**
 
