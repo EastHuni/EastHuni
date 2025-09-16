@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=easthuni&show_icons=true&locale=en" alt="easthuni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=easthuni&" alt="easthuni" /></p>RF
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=easthuni&" alt="easthuni" /></p>
